@@ -34,11 +34,11 @@ This is a simple e-commerce system implemented in C++ that allows both users and
 3. Compile the code using the following command:
    ```bash
    g++ -o ecommerce_system main.cpp
-  ```
+   ```
 4. Run the compiled program:
-  ```bash
-  ./ecommerce_system
-  ```
+    ```bash
+    ./ecommerce_system
+    ```
 ## Input Data:
 - The system uses products.txt and orders.txt to store product and order information. These files will be created automatically if they do not exist.
 - Products are stored in the following format: name|category|price.
